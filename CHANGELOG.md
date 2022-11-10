@@ -5,6 +5,8 @@ This change log adheres to standards from [Keep a CHANGELOG](https://keepachange
 
 ## Unreleased
 
+## [7.31.11] - 2022.11.10
+
 ### Fixed
 * [`jsx-no-target-blank`]: allow ternaries with literals ([#3464][] @akulsr0)
 * [`no-unknown-property`]: add `inert` attribute ([#3484][] @ljharb)
@@ -14,6 +16,7 @@ This change log adheres to standards from [Keep a CHANGELOG](https://keepachange
 * [Docs] `forbid-component-props`: inclusive language w/ allowlist ([#3473][] @AndersDJohnson)
 * [Docs] automate doc generation with `eslint-doc-generator` ([#3469][] @bmish)
 
+[7.31.11]: https://github.com/jsx-eslint/eslint-plugin-react/compare/v7.31.10...v7.31.11
 [#3484]: https://github.com/jsx-eslint/eslint-plugin-react/issues/3484
 [#3473]: https://github.com/jsx-eslint/eslint-plugin-react/pull/3473
 [#3469]: https://github.com/jsx-eslint/eslint-plugin-react/pull/3469
